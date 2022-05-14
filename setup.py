@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name='brickwork',
-    version='2022.1.23.5',
+    version='2022.5.1',
     license='MIT',
 
     author='Idin',
